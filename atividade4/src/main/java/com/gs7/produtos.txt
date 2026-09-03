@@ -1,0 +1,7 @@
+11 | Monitor
+12 | Teclado
+13 | Mouse
+14 | Notebook
+15 | Impressora
+16 | Touchpad
+17 | Placa
